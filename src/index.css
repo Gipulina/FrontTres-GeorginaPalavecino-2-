@@ -1,0 +1,12 @@
+body{
+    background-color: #f8f7bd;
+    line-height: 1.5;
+    margin:0;
+    padding:0;
+    text-align: left;
+    text-decoration: none;
+    text-transform: none;
+    display: flex;
+    align-items: center; /* Vertically centers the form */
+    justify-content: center; /* Horizontally centers the form */
+}
